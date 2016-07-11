@@ -1,6 +1,22 @@
 # Intro to Programming
 
+
 ## Exercises
+
+Create an expression using...
+
+- two or more arithmetic operators (+,++,-,--,*,**,/,%)
+
+- two or more logical operators (&&, ||, !)
+
+- three or more comparison operators (==, ===, !=, !==, >, >=, <, <=)
+
+- a combination of both arithmetic and comparison operators
+
+- a combination of logical and comparison operators
+
+- using at least one of each type of operator (arithmetic, logical, and comparison)
+
 
 Write a program...
 
